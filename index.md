@@ -1,4 +1,4 @@
-# Aura Zelco Repo
+# Aura Zelco Bio
 
 ![au8085ze](https://user-images.githubusercontent.com/90723501/133410505-61ade18d-ee2f-46e3-b2d7-9ff20f8a3221.jpg)
 
